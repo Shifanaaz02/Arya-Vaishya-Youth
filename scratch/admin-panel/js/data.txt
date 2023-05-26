@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "Quote": "Incs234",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "In progress",
+      "Updated": "Owner"
+    },{
+      "id": "2",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Active",
+      "Updated": "Client"
+    },{
+      "id": "3",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Expired",
+      "Updated": "Dealer"
+    },{
+      "id": "4",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "In progress",
+      "Updated": "Owner"
+    },{
+      "id": "5",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "6",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "7",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "8",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Expired",
+      "Updated": "Owner"
+    },{
+      "id": "9",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "10",
+      "Quote": "Incs235",
+      "Product": "Aryan Ved",
+      "Business": "912345678",
+      "Policy": "Pune",
+      "Premium": "25/04/2002",
+      "Status": "In progress",
+      "Updated": "Owner"
+    }
+  ]
+}

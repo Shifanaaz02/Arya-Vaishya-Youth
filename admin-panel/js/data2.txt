@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "Quote": "Dnr234",
+      "Product": "Aryan Ved",
+      "Business": "Blood",
+      "Policy": "20",
+      "Premium": "Incs235",
+      "Status": "In progress",
+      "Updated": "Owner"
+    },{
+      "id": "2",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Kirana",
+      "Policy": "30",
+      "Premium": "Incs235",
+      "Status": "Active",
+      "Updated": "Client"
+    },{
+      "id": "3",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Education",
+      "Policy": "2",
+      "Premium": "Incs235",
+      "Status": "Expired",
+      "Updated": "Dealer"
+    },{
+      "id": "4",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Medical",
+      "Policy": "5",
+      "Premium": "Incs235",
+      "Status": "In progress",
+      "Updated": "Owner"
+    },{
+      "id": "5",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Thing",
+      "Policy": "10",
+      "Premium": "Incs235",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "6",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Thing",
+      "Policy": "6",
+      "Premium": "Incs235",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "7",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Blood",
+      "Policy": "9",
+      "Premium": "Incs235",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "8",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Education",
+      "Policy": "30",
+      "Premium": "Incs235",
+      "Status": "Expired",
+      "Updated": "Owner"
+    },{
+      "id": "9",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Blood",
+      "Policy": "10",
+      "Premium": "Incs235",
+      "Status": "Active",
+      "Updated": "Owner"
+    },{
+      "id": "10",
+      "Quote": "Dnr235",
+      "Product": "Aryan Ved",
+      "Business": "Blood",
+      "Policy": "15",
+      "Premium": "Incs235",
+      "Status": "In progress",
+      "Updated": "Owner"
+    }
+  ]
+}
